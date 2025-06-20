@@ -63,6 +63,6 @@ This analysis reveals how various academic and background factors influence stud
 ## 📂 Folder Structure
 
 ├── Placement_Data_Full_Class.csv
-├── placement_analysis.ipynb
+├── Analysed_placement_data.csv.ipynb
 ├── README.md
 
